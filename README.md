@@ -1,5 +1,5 @@
 # Sierpinski-Kite
-It's a kite shaped, made by sierpinski triangle fractals - red colored.
+It's a kite shaped (and by that I mean hexagon), made by sierpinski triangle fractals - red colored.
 
 
 
